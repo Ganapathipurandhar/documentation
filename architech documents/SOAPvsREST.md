@@ -18,15 +18,15 @@ Conclusion
 SOAP (Simple Object Access Protocol) is a protocol for exchanging structured information in web services. It relies on XML for message formatting and can operate over various protocols like HTTP, SMTP, and TCP.
 
 Characteristics of SOAP:
-Standardized: Follows strict standards and specifications.
+**Standardized:** Follows strict standards and specifications.
 
-Security: Built-in support for WS-Security, making it suitable for high-security applications.
+**Security:** Built-in support for WS-Security, making it suitable for high-security applications.
 
-Extensibility: Supports complex transactions and workflows.
+**Extensibility:** Supports complex transactions and workflows.
 
-Error Handling: Includes built-in fault handling.
+**Error Handling:** Includes built-in fault handling.
 
-Platform Independence: Works across different programming languages and platforms.
+**Platform Independence:** Works across different programming languages and platforms.
 
 Example Use Cases:
 Financial services (e.g., banking transactions)
@@ -39,15 +39,15 @@ Systems requiring ACID-compliant transactions
 REST (Representational State Transfer) is an architectural style for designing networked applications. It uses standard HTTP methods (GET, POST, PUT, DELETE) and typically communicates using JSON or XML.
 
 Characteristics of REST:
-Stateless: Each request contains all the information needed to process it.
+**Stateless:** Each request contains all the information needed to process it.
 
-Cacheable: Responses can be cached for better performance.
+**Cacheable:** Responses can be cached for better performance.
 
-Lightweight: Uses JSON, which is easier to parse and more compact than XML.
+**Lightweight:** Uses JSON, which is easier to parse and more compact than XML.
 
-Scalable: Ideal for web and mobile applications.
+**Scalable:** Ideal for web and mobile applications.
 
-Uniform Interface: Simplifies communication between client and server.
+**Uniform Interface:** Simplifies communication between client and server.
 
 Example Use Cases:
 Public APIs (e.g., social media platforms, weather services)
