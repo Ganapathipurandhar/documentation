@@ -57,13 +57,16 @@ Mobile and web applications
 Microservices architectures
 
 ## Key Differences
-Feature	                    SOAP	                                REST
-Protocol	         Protocol (XML-based)	                Architectural style (uses HTTP)
-Message Format	     XML	                                JSON, XML, HTML, plain text
-Performance	         Slower due to XML parsing	            Faster due to lightweight JSON
-Security	         Built-in (WS-Security)	                Relies on HTTPS and other external tools
-State	             Stateful or stateless	                Stateless
-Use Cases	         High-security, complex transactions	Web APIs, mobile apps, microservices
+
+| Feature       | SOAP                        | REST                                   |
+|---------------|-----------------------------|---------------------------------------|
+| Protocol      | Protocol (XML-based)        | Architectural style (uses HTTP)       |
+| Message Format| XML                         | JSON, XML, HTML, plain text           |
+| Performance   | Slower due to XML parsing   | Faster due to lightweight JSON        |
+| Security      | Built-in (WS-Security)      | Relies on HTTPS and other external tools |
+| State         | Stateful or stateless       | Stateless                             |
+| Use Cases     | High-security, complex transactions | Web APIs, mobile apps, microservices |
+
 ## When to Use SOAP
 When you need high security (e.g., banking, healthcare).
 
