@@ -102,4 +102,4 @@ yum check-update
 
 Patch management is essential to maintain Linux system security and stability. Always test before production deployment, take backups, and verify patch success post-reboot.
 
-> Happy Learning! For more content, like, share, and subscribe to the channel.
+
